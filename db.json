@@ -1,8 +1,23 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "user_id": "12345",
+      "user_code": "user1",
+      "order_code": "order1",
+      "seller_code": "seller1",
+      "total_cbm": 1,
+      "total_pallet": 1,
+      "total_weight": 1,
+      "delivery_address": "2 Nguyen Hue, Ben Nghe, Quan 1, Ho Chi Minh",
+      "delivery_date": "2023-06-12 14:31:03",
+      "quantity": 1,
+      "pickup_ward_code": "123",
+      "pickup_district_code": "123",
+      "pickup_province_code": "123",
+      "ship_to_ward_code": "123",
+      "ship_to_district_code": "123",
+      "ship_to_province_code": "123"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
