@@ -16,7 +16,8 @@
       "pickup_province_code": "123",
       "ship_to_ward_code": "123",
       "ship_to_district_code": "123",
-      "ship_to_province_code": "123"
+      "ship_to_province_code": "123",
+      "status": 1
     },
     {
       "user_id": "9876",
@@ -34,7 +35,8 @@
       "pickup_province_code": "222",
       "ship_to_ward_code": "222",
       "ship_to_district_code": "222",
-      "ship_to_province_code": "222"
+      "ship_to_province_code": "222",
+      "status": 1
     }
   ],
   "comments": [
