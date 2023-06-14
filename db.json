@@ -40,10 +40,38 @@
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "vehicles": [
+    {
+      "id": 1,
+      "vehicle_code": "VH001",
+      "vendor_code": "VD001",
+      "registered_no": "ABC123",
+      "vehicle_type": "Car",
+      "capacity": 4.5,
+      "cbm": 2.3
+    },
+    {
+      "id": 2,
+      "vehicle_code": "VH002",
+      "vendor_code": "VD002",
+      "registered_no": "XYZ789",
+      "vehicle_type": "Truck",
+      "capacity": 12.8,
+      "cbm": 8.6
+    }
+  ],
 }
