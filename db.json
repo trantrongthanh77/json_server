@@ -1,77 +1,105 @@
 {
-  "orders": [
-    {
-      "user_id": "12346",
-      "user_code": "user1",
-      "order_code": "order1",
-      "seller_code": "seller1",
-      "total_cbm": 1,
-      "total_pallet": 1,
-      "total_weight": 1,
-      "delivery_address": "2 Nguyen Hue, Ben Nghe, Quan 1, Ho Chi Minh",
-      "delivery_date": "2023-06-12 14:31:03",
-      "quantity": 1,
-      "pickup_ward_code": "123",
-      "pickup_district_code": "123",
-      "pickup_province_code": "123",
-      "ship_to_ward_code": "123",
-      "ship_to_district_code": "123",
-      "ship_to_province_code": "123",
-      "status": 1
+    "orders": [
+      {
+        "user_id": "12346",
+        "user_code": "user1",
+        "order_code": "order1",
+        "seller_code": "seller1",
+        "total_cbm": 1,
+        "total_pallet": 1,
+        "total_weight": 1,
+        "delivery_address": "2 Nguyen Hue, Ben Nghe, Quan 1, Ho Chi Minh",
+        "delivery_date": "2023-06-12 14:31:03",
+        "quantity": 1,
+        "pickup_ward_code": "123",
+        "pickup_district_code": "123",
+        "pickup_province_code": "123",
+        "ship_to_ward_code": "123",
+        "ship_to_district_code": "123",
+        "ship_to_province_code": "123",
+        "status": 1
+      },
+      {
+        "user_id": "9876",
+        "user_code": "user2",
+        "order_code": "order2",
+        "seller_code": "seller2",
+        "total_cbm": 2,
+        "total_pallet": 2,
+        "total_weight": 2,
+        "delivery_address": "3 Nguyen Hue, Ben Nghe, Quan 1, Ho Chi Minh",
+        "delivery_date": "2023-06-13 14:31:03",
+        "quantity": 2,
+        "pickup_ward_code": "222",
+        "pickup_district_code": "222",
+        "pickup_province_code": "222",
+        "ship_to_ward_code": "222",
+        "ship_to_district_code": "222",
+        "ship_to_province_code": "222",
+        "status": 1
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     },
-    {
-      "user_id": "9876",
-      "user_code": "user2",
-      "order_code": "order2",
-      "seller_code": "seller2",
-      "total_cbm": 2,
-      "total_pallet": 2,
-      "total_weight": 2,
-      "delivery_address": "3 Nguyen Hue, Ben Nghe, Quan 1, Ho Chi Minh",
-      "delivery_date": "2023-06-13 14:31:03",
-      "quantity": 2,
-      "pickup_ward_code": "222",
-      "pickup_district_code": "222",
-      "pickup_province_code": "222",
-      "ship_to_ward_code": "222",
-      "ship_to_district_code": "222",
-      "ship_to_province_code": "222",
-      "status": 1
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "vehicles": [
-    {
-      "id": 1,
-      "vehicle_code": "VH001",
-      "vendor_code": "VD001",
-      "registered_no": "ABC123",
-      "vehicle_type": "Car",
-      "capacity": 4.5,
-      "cbm": 2.3
-    },
-    {
-      "id": 2,
-      "vehicle_code": "VH002",
-      "vendor_code": "VD002",
-      "registered_no": "XYZ789",
-      "vehicle_type": "Truck",
-      "capacity": 12.8,
-      "cbm": 8.6
-    }
-  ]
-}
+    "vehicles": [
+      {
+        "id": 1,
+        "vehicle_code": "VH001",
+        "vendor_code": "VD001",
+        "registered_no": "ABC123",
+        "vehicle_type": "Car",
+        "capacity": 4.5,
+        "cbm": 2.3
+      },
+      {
+        "id": 2,
+        "vehicle_code": "VH002",
+        "vendor_code": "VD002",
+        "registered_no": "XYZ789",
+        "vehicle_type": "Truck",
+        "capacity": 5.5,
+        "cbm": 8.6
+      },
+      {
+        "id": 3,
+        "vehicle_code": "VH003",
+        "vendor_code": "VD001",
+        "registered_no": "ABC123",
+        "vehicle_type": "Car",
+        "capacity": 5,
+        "cbm": 2.3
+      },
+      {
+        "id": 4,
+        "vehicle_code": "VH004",
+        "vendor_code": "VD001",
+        "registered_no": "ABC123",
+        "vehicle_type": "Car",
+        "capacity": 5.5,
+        "cbm": 2.3
+      },
+      {
+        "id": 5,
+        "vehicle_code": "VH005",
+        "vendor_code": "VD001",
+        "registered_no": "ABC123",
+        "vehicle_type": "Car",
+        "capacity": 4.5,
+        "cbm": 2.3
+      }
+    ]
+  }
+  
