@@ -61,7 +61,7 @@
         "vendor_code": "VD001",
         "registered_no": "ABC123",
         "vehicle_type": "Car",
-        "capacity": 4.5,
+        "capacity": 7,
         "cbm": 2.3
       },
       {
@@ -79,7 +79,7 @@
         "vendor_code": "VD001",
         "registered_no": "ABC123",
         "vehicle_type": "Car",
-        "capacity": 5,
+        "capacity": 6.5,
         "cbm": 2.3
       },
       {
@@ -88,7 +88,7 @@
         "vendor_code": "VD001",
         "registered_no": "ABC123",
         "vehicle_type": "Car",
-        "capacity": 5.5,
+        "capacity": 7,
         "cbm": 2.3
       },
       {
@@ -97,7 +97,7 @@
         "vendor_code": "VD001",
         "registered_no": "ABC123",
         "vehicle_type": "Car",
-        "capacity": 4.5,
+        "capacity": 5,
         "cbm": 2.3
       }
     ],
