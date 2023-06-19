@@ -62,7 +62,7 @@
         "registered_no": "ABC123",
         "vehicle_type": "Car",
         "capacity": 7,
-        "cbm": 2.3
+        "cbm": 7.3
       },
       {
         "id": 2,
@@ -80,7 +80,7 @@
         "registered_no": "ABC123",
         "vehicle_type": "Car",
         "capacity": 6.5,
-        "cbm": 2.3
+        "cbm": 6.3
       },
       {
         "id": 4,
@@ -89,7 +89,7 @@
         "registered_no": "ABC123",
         "vehicle_type": "Car",
         "capacity": 7,
-        "cbm": 2.3
+        "cbm": 5.3
       },
       {
         "id": 5,
@@ -98,7 +98,7 @@
         "registered_no": "ABC123",
         "vehicle_type": "Car",
         "capacity": 5,
-        "cbm": 2.3
+        "cbm": 7.3
       }
     ],
     "distance_matrix": [
